@@ -1,4 +1,5 @@
 # Smart Budget
+
   Smart Budget is a clean, production-ready .NET 8 Web API designed to help people track expenses, manage budgets, and make sense of their finances.
   It’s not just another demo project. it’s a foundation that shows how real-world backend systems should be structured, tested, and shipped.
 ---
