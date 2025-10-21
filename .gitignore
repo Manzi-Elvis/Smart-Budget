@@ -1,0 +1,8 @@
+bin/
+obj/
+.vs/
+.env
+.env.*
+*.db
+*.log
+/.idea
